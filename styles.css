@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+table{
+    border-collapse: collapse;
+	width : 100%;
+	
+}
+.class{
+	text-align : left;
+}
+#td{
+	 text-align : ;
+}
+thead{
+		 text-align : left;
+		 background-color :#c0504d ;
+}
+	.right{
+		text-align : right;
+	}
+
+	#tr2{
+		background-color : #da9694;
+	}
+		 #tr3{
+		background-color : #f2dcdb;
+	}
+		 #tr4{
+		background-color : #d9d9d9;
+	}
+
